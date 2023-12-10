@@ -1,0 +1,156 @@
+[
+  {
+    "server": "212.102.53.79",
+    "server_port": 443,
+    "password": "shadowsocks",
+    "method": "aes-128-gcm",
+    "remarks": "PIA uk",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "154.47.20.240",
+    "server_port": 443,
+    "password": "shadowsocks",
+    "method": "aes-128-gcm",
+    "remarks": "PIA japan",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "212.102.47.198",
+    "server_port": 443,
+    "password": "shadowsocks",
+    "method": "aes-128-cfb",
+    "remarks": "PIA us_sea",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "184.170.241.194",
+    "server_port": 443,
+    "password": "shadowsocks",
+    "method": "aes-128-cfb",
+    "remarks": "PIA us3",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "37.19.198.173",
+    "server_port": 443,
+    "password": "shadowsocks",
+    "method": "aes-128-cfb",
+    "remarks": "PIA us_nyc",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "162.216.47.66",
+    "server_port": 443,
+    "password": "shadowsocks",
+    "method": "aes-128-cfb",
+    "remarks": "PIA ca_vancouver",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "109.201.152.181",
+    "server_port": 443,
+    "password": "shadowsocks",
+    "method": "aes-128-cfb",
+    "remarks": "PIA nl",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "212.102.50.42",
+    "server_port": 443,
+    "password": "shadowsocks",
+    "method": "aes-128-cfb",
+    "remarks": "PIA jp",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "156.146.38.163",
+    "server_port": 443,
+    "password": "shadowsocks",
+    "method": "aes-128-cfb",
+    "remarks": "PIA us_dal",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "156.146.62.160",
+    "server_port": 443,
+    "password": "shadowsocks",
+    "method": "aes-128-cfb",
+    "remarks": "PIA swiss",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "89.238.137.44",
+    "server_port": 443,
+    "password": "shadowsocks",
+    "method": "aes-128-cfb",
+    "remarks": "PIA uk_manchester",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  }
+]

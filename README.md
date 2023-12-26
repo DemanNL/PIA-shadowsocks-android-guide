@@ -8,7 +8,7 @@ Open the PIA VPN app and change the following settings using the hamburger menu 
 - Per App Settings, search for Shadowsocks app and tap it. Make sure it has a red lock icon.
 - Goto Settings, protocol and select OpenVPN.
 - Goto Settings, protocol and select Transport TCP.
-- Goto settings, obfuscation and select Connect via proxy. Tap on Select Proxy-app and choose Shadowsocks app. Leave the socks port on default 1080.
+- Goto settings, obfuscation and select Connect via proxy. Tap on Select Proxy-app and choose Shadowsocks app. Set the proxy port to 1080, in order to match the Shadowsocks app.
 
 Now open the Shadowsocks app and tap on the hamburger menu top left. Goto Subscriptions. Tap on the plus icon top right and fill in the following URL:
 https://raw.githubusercontent.com/DemanNL/PIA-shadowsocks-android-guide/main/profiles.json
